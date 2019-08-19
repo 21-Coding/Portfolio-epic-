@@ -1,0 +1,33 @@
+
+
+.jumbotron {
+  background-image: url("https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/1/cf/1cf1ee6a-4a60-11e2-ab8e-001a4bcf887a/50d2982e66008.image.jpg?resize=512%2C330");
+  background-position: center;
+  background-repeat: repeat-x;
+  color: #f2ddb3;
+  font-family: 'Alfa Slab One';font-size: 22px;
+  text-align: center;
+  float: none;
+  padding-top: 50px;
+padding-right: 30px;
+padding-bottom: 50px;
+padding-left: 80px;
+
+};
+
+.bit {
+	background-position: center;
+	float: left;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+
+	}
+
+  .well {
+    padding-top: 10px;
+padding-right: 30px;
+padding-bottom: 10px;
+padding-left: 80px;
+  }
